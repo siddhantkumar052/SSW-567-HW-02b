@@ -2,7 +2,7 @@
 Name: Siddhantkumar Maske
 Cwid:20006862
 Subject: SSW 567
-HW HW 02b Continuous Integration - Classify Triangle
+HW 02b Continuous Integration - Classify Triangle
 """
 
 
