@@ -1,4 +1,4 @@
-# SSW 567 HW 02a
+# SSW 567 HW 02b
 
 This folder contains HW-02b
 
